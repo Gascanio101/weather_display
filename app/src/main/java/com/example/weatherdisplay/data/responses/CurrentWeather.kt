@@ -1,6 +1,7 @@
 package com.example.weatherdisplay.data.responses
 
 
+//import com.google.gson.annotations.SerializedName
 import com.google.gson.annotations.SerializedName
 
 data class CurrentWeather(
